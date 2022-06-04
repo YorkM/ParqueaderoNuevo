@@ -1,0 +1,19 @@
+.banner{
+    background-image: url('https://www.blintech.com.co/wp-content/uploads/2018/01/1.parking-1200x600.jpg');
+    background-position: top center;
+    background-size: cover;
+    padding: 10% 20% 30% 20%;
+    margin-top: 1%;
+}
+
+header{
+    margin-top: 0,5%;
+}
+
+h2{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.582);
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
